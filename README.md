@@ -2,6 +2,8 @@
 
 I work as Software Engineer - Frontend daily. Enthusiast to IT and Software Development. Always trying to learn new techniques and tools. Drink coffee, play football, and watch movies as refreshing.
 
+💻 [Live portfolio](https://hafisalrafi.com)
+
 <!--
 **alrafi/alrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
