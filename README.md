@@ -1,8 +1,10 @@
 ### Hello, folks! 👋
 
-I work as Software Engineer - Frontend daily. Enthusiast to IT and Software Development. Always trying to learn new techniques and tools. Drink coffee, play football, and watch movies as refreshing.
+Hi, I’m Hafis Alrafi, a software engineer based on Jakarta, Indonesia. I love to turn ideas into code for building awesome apps.
 
-💻 [Live portfolio](https://hafisalrafi.com)
+My development suite to solve problems includes TypeScript, Next.js, Tailwind, and more.
+
+💻 [Live portfolio](https://alrafi.vercel.app)
 
 <!--
 **alrafi/alrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
